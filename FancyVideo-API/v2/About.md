@@ -1,8 +1,8 @@
 ---
 title: About: FancyVideo-API v2
-description: This API provides easy ways for mod developers to play videos in a resource friendly way in Minecraft. This is achieved by rendering the frames into a special DynamicTexture that cleans itself. This uses VLC natives, handling all rendering in native code.
+description: This API provides easy ways for mod developers to play videos in a resource friendly way in Minecraft. 
 published: true
-date: 2022-12-29T14:33:54.771Z
+date: 2022-12-29T14:34:32.650Z
 tags: fancyvideo-api v2, links missing/broken, work-in-progress
 editor: markdown
 dateCreated: 2022-12-29T13:18:10.259Z
