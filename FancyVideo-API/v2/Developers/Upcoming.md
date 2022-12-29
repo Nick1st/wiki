@@ -1,9 +1,9 @@
 ---
 title: Upcoming: FancyVideo-API v3
 description: 
-published: false
-date: 2022-12-29T16:25:54.526Z
-tags: 
+published: true
+date: 2022-12-29T16:28:21.560Z
+tags: links missing/broken
 editor: markdown
 dateCreated: 2022-12-29T16:10:11.668Z
 ---
