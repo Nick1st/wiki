@@ -2,7 +2,7 @@
 title: Hello World
 description: 
 published: false
-date: 2022-12-29T11:00:45.288Z
+date: 2022-12-29T11:21:48.535Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-28T23:57:44.062Z
@@ -18,21 +18,33 @@ This is the official documentation wiki for my (Nick1st's) mods. This currently 
 
 No matter if you're a player, modpack-creator or developer using my mods and want to find out how things work, this is the right place for you!
 
----
-
 # Navigation
 To navigate through the docs, use the sidebar far left.
-There are two navigation modes currently available.
+There are two navigation modes currently available. The `Browse` mode is helpfull when looking for a certain page, while the `Main Menu` mode is best for quick discovery of the most important wiki pages.
 
-Docs are ordered by FancyMenu versions, because features can change from version to version.
-Always use the correct docs for your FancyMenu version!
+## Browse mode
+This navigation is alphabetically ordered by mods. Inside a mod folder there may be different mod versions, as features can change depending on version. 
 
-For example:
-If you want to see the docs for FancyMenu v2.4.X, click on the 24x directory in the sidebar.
-For FancyMenu v2.3.X, use the 23x directory.
+> Please make sure you're on the correct page for the version you're using.
+{.is-info}
 
-Starting from version 2.12.X, the sidebar versions look different.
-If you want to see the wiki for v2.12.X, use the 2-12-X directory.
+_For example:_
+If you want to see the docs for FancyVideo-API v2, click on the `Fancy-Video-API` folder and then on the `v2` directory in the sidebar.
+For FancyVideo-API v3, use the `v3` directory instead.
+
+## Main Menu mode
+This navigation is grouped by mods and contains the most important pages per mod only.
+
+> This navigation will _**always**_ point to the latest version of a mod publicly available!
+{.is-warning}
+
+_For example:_
+If you want to access the `Getting Started` page for FancyVideo-API, search for the FancyVideo-API section in the sidebar and then click the `Getting Started` page.
+
+# Stay Connected
+The best and fastest way to get help is to join my [Discord](https://discord.gg/gxcN94H)!
+
+
 
 > Note this might not always work
 {.is-success}
