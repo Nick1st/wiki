@@ -2,7 +2,7 @@
 title: About: FancyVideo-API v2
 description: This API provides easy ways for mod developers to play videos in a resource friendly way in Minecraft. 
 published: true
-date: 2022-12-29T14:34:32.650Z
+date: 2022-12-29T14:45:24.004Z
 tags: fancyvideo-api v2, links missing/broken, work-in-progress
 editor: markdown
 dateCreated: 2022-12-29T13:18:10.259Z
@@ -33,7 +33,7 @@ The mod jar comes with bundled librarys for Windows 32bit and 64bit systems. If 
 > I am sadly not able to support all Linux distributions. Only Ubuntu based distributions are actively supported. If you get this mod working on other distributions, feel free to [contribute](/FancyVideo-API/v2/About#contribute-to-the-docs) the steps you took.
 {.is-warning}
 
-Due to the way native libraries work on linux, you must install a full version of the VLC 4.0 Beta. [Download](https://bit.ly/vlcBeta) the VLC <span style="color:yellow;">**4**</span>.0 snap packages (or use the Ubuntu PPA as described on the download page) and install it.
+Due to the way native libraries work on linux, you must install a full version of the VLC 4.0 beta. [Download](https://bit.ly/vlcBeta) the VLC <span style="color:yellow;">**4**</span>.0 snap package (or use the Ubuntu PPA as described on the download page) and install it.
 The mod should then automatically be able to use it after restarting Minecraft.
 
 #### Mac OS
