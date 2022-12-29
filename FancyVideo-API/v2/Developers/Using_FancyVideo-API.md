@@ -1,8 +1,8 @@
 ---
 title: Using FancyVideo-API in your mod
 description: 
-published: false
-date: 2022-12-29T16:28:01.285Z
+published: true
+date: 2022-12-29T16:28:36.304Z
 tags: fancyvideo-api v2, links missing/broken, work-in-progress
 editor: markdown
 dateCreated: 2022-12-29T15:42:20.128Z
