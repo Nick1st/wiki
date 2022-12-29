@@ -2,13 +2,17 @@
 title: Using FancyVideo-API in your mod
 description: 
 published: false
-date: 2022-12-29T16:11:05.852Z
+date: 2022-12-29T16:27:42.343Z
 tags: fancyvideo-api v2
 editor: markdown
 dateCreated: 2022-12-29T15:42:20.128Z
 ---
 
 # Getting Started
+
+> This documentation is work-in-progress.
+{.is-warning}
+
 To start using FancyVideo-API as a dependency for your mod you need to add it to your `build.gradle`:
 
 ```groovy
