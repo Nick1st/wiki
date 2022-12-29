@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: false
-date: 2022-12-29T11:27:35.015Z
+date: 2022-12-29T11:30:12.697Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-28T23:57:44.062Z
@@ -29,7 +29,7 @@ This navigation is alphabetically ordered by mods. Inside a mod folder there may
 {.is-info}
 
 _For example:_
-If you want to see the docs for FancyVideo-API v2, click on the `Fancy-Video-API` folder and then on the `v2` directory in the sidebar.
+If you want to see the docs for FancyVideo-API v2, click on the `FancyVideo-API` folder and then on the `v2` directory in the sidebar.
 For FancyVideo-API v3, use the `v3` directory instead.
 
 ## Main Menu mode
