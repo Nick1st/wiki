@@ -2,7 +2,7 @@
 title: Using FancyVideo-API in your mod
 description: 
 published: false
-date: 2022-12-29T16:09:24.289Z
+date: 2022-12-29T16:10:44.369Z
 tags: fancyvideo-api v2
 editor: markdown
 dateCreated: 2022-12-29T15:42:20.128Z
@@ -35,4 +35,4 @@ dependencies {
 - [I don't know yet]
 
 ## Upcomming: FancyVideo-API v3
-Have a look at planned features for v3.
+Have a look at [planned features for v3](/FancyVideo-API/v2/Developers/Upcoming).
