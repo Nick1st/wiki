@@ -2,7 +2,7 @@
 title: About: FancyVideo-API v2
 description: This API provides easy ways for mod developers to play videos in a resource friendly way in Minecraft. 
 published: true
-date: 2022-12-29T14:45:24.004Z
+date: 2022-12-29T15:43:08.434Z
 tags: fancyvideo-api v2, links missing/broken, work-in-progress
 editor: markdown
 dateCreated: 2022-12-29T13:18:10.259Z
@@ -43,7 +43,7 @@ The mod should then automatically be able to use it after restarting Minecraft.
 If you like tinkering with Mac OS, feel free to ignore the warning above :smile:.
 
 ## For Developers
-Please have a look at the [Using FancyVideo-API in your mod] page to get started.
+Please have a look at the [Using_FancyVideo-API](/FancyVideo-API/v2/Developers/Using_FancyVideo-API) page to get started.
 
 ## For Modpack Makers
 This mod comes with the ability to add replacements in case the native libraries can't be loaded and therefor videos can't be played. However it is up to the mod using this API to correctly implement error handling. In case you run into a crash and think FancyVideo-API is involved, please report this to me via GitHub or Discord.
